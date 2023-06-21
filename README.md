@@ -1,4 +1,4 @@
-# Shakshi-Kumari_Data-Engineer - STEELEYE LIMITED
+# Shakshi-Kumari_Data-Engineer 
 
 <h1>Project Name</h1>
     <p>The project aims to download and extract CSV files from multiple ZIP files stored on a remote server using Python.</p>
